@@ -1,0 +1,595 @@
+SampleID,SubjectID,commonloungetime_hr,floor,hoursoutside,lastshower_day,personalvcommon,plants,roomateids,roomates,sample_type,samplenum,sex,sheetwashfreq_week,subjectid,surface,surfaceaggregated,surfacegroup,timepoint,washlast_day,windowsopenhours
+1.Bed.Sheet.2,1,0.17,6,9,0.54,Personal,0,NA,0,surface,209,male,4.5,1,Bed.Sheet,Bed Sheet,Hand,2,0,2
+1.Bed.Sheet.3,1,0.05,6,13,0.33,Personal,0,NA,0,surface,546,male,3,1,Bed.Sheet,Bed Sheet,Hand,3,21,15
+1.Bed.Sheet.4,1,0,6,1.5,0.75,Personal,0,NA,0,surface,301,male,4,1,Bed.Sheet,Bed Sheet,Hand,4,7,10
+1.Desk.2,1,0.17,6,9,0.54,Personal,0,NA,0,surface,205,male,4.5,1,Desk,Desk,Hand,2,0,2
+1.Desk.3,1,0.05,6,13,0.33,Personal,0,NA,0,surface,542,male,3,1,Desk,Desk,Hand,3,21,15
+1.Desk.4,1,0,6,1.5,0.75,Personal,0,NA,0,surface,305,male,4,1,Desk,Desk,Hand,4,7,10
+1.Door.Handle.2,1,0.17,6,9,0.54,Personal,0,NA,0,surface,208,male,4.5,1,Door.Handle,Door Handle,Hand,2,0,2
+1.Door.Handle.3,1,0.05,6,13,0.33,Personal,0,NA,0,surface,543,male,3,1,Door.Handle,Door Handle,Hand,3,21,15
+1.Door.Handle.4,1,0,6,1.5,0.75,Personal,0,NA,0,surface,302,male,4,1,Door.Handle,Door Handle,Hand,4,7,10
+1.Floor.2,1,0.17,6,9,0.54,Personal,0,NA,0,surface,210,male,4.5,1,Floor,Floor,Floor,2,0,2
+1.Floor.3,1,0.05,6,13,0.33,Personal,0,NA,0,surface,544,male,3,1,Floor,Floor,Floor,3,21,15
+1.Floor.4,1,0,6,1.5,0.75,Personal,0,NA,0,surface,300,male,4,1,Floor,Floor,Floor,4,7,10
+1.Hand.1,1,NA,6,NA,NA,Personal,NA,NA,0,skin,57,male,NA,1,Hand,Hand,Hand,1,NA,NA
+1.Hand.2,1,0.17,6,9,0.54,Personal,0,NA,0,skin,207,male,4.5,1,Hand,Hand,Hand,2,0,2
+1.Hand.3,1,0.05,6,13,0.33,Personal,0,NA,0,skin,541,male,3,1,Hand,Hand,Hand,3,21,15
+1.Hand.4,1,0,6,1.5,0.75,Personal,0,NA,0,skin,304,male,4,1,Hand,Hand,Hand,4,7,10
+1.Shoe.2,1,0.17,6,9,0.54,Personal,0,NA,0,surface,206,male,4.5,1,Shoe,Shoe,Floor,2,0,2
+1.Shoe.3,1,0.05,6,13,0.33,Personal,0,NA,0,surface,545,male,3,1,Shoe,Shoe,Floor,3,21,15
+1.Shoe.4,1,0,6,1.5,0.75,Personal,0,NA,0,surface,303,male,4,1,Shoe,Shoe,Floor,4,7,10
+10.Bed.Sheet.2,10,0,7,1,0.25,Personal,0,NA,0,surface,107,male,2,10,Bed.Sheet,Bed Sheet,Hand,2,2,0
+10.Bed.Sheet.3,10,15,7,4,1,Personal,0,NA,0,surface,287,male,2,10,Bed.Sheet,Bed Sheet,Hand,3,7,0
+10.Bed.Sheet.4,10,10,7,3,0.5,Personal,0,NA,0,surface,355,male,8,10,Bed.Sheet,Bed Sheet,Hand,4,14,5
+10.Desk.2,10,0,7,1,0.25,Personal,0,NA,0,surface,115,male,2,10,Desk,Desk,Hand,2,2,0
+10.Desk.3,10,15,7,4,1,Personal,0,NA,0,surface,288,male,2,10,Desk,Desk,Hand,3,7,0
+10.Desk.4,10,10,7,3,0.5,Personal,0,NA,0,surface,359,male,8,10,Desk,Desk,Hand,4,14,5
+10.Door.Handle.3,10,15,7,4,1,Personal,0,NA,0,surface,285,male,2,10,Door.Handle,Door Handle,Hand,3,7,0
+10.Door.Handle.4,10,10,7,3,0.5,Personal,0,NA,0,surface,356,male,8,10,Door.Handle,Door Handle,Hand,4,14,5
+10.Floor.2,10,0,7,1,0.25,Personal,0,NA,0,surface,131,male,2,10,Floor,Floor,Floor,2,2,0
+10.Floor.3,10,15,7,4,1,Personal,0,NA,0,surface,286,male,2,10,Floor,Floor,Floor,3,7,0
+10.Floor.4,10,10,7,3,0.5,Personal,0,NA,0,surface,354,male,8,10,Floor,Floor,Floor,4,14,5
+10.Hand.1,10,NA,7,NA,NA,Personal,NA,NA,0,skin,33,male,NA,10,Hand,Hand,Hand,1,NA,NA
+10.Hand.2,10,0,7,1,0.25,Personal,0,NA,0,skin,123,male,2,10,Hand,Hand,Hand,2,2,0
+10.Hand.3,10,15,7,4,1,Personal,0,NA,0,skin,284,male,2,10,Hand,Hand,Hand,3,7,0
+10.Hand.4,10,10,7,3,0.5,Personal,0,NA,0,skin,358,male,8,10,Hand,Hand,Hand,4,14,5
+10.Shoe.2,10,0,7,1,0.25,Personal,0,NA,0,surface,99,male,2,10,Shoe,Shoe,Floor,2,2,0
+10.Shoe.3,10,15,7,4,1,Personal,0,NA,0,surface,283,male,2,10,Shoe,Shoe,Floor,3,7,0
+10.Shoe.4,10,10,7,3,0.5,Personal,0,NA,0,surface,357,male,8,10,Shoe,Shoe,Floor,4,14,5
+11.Bed.Sheet.2,11,0,6,48,0.58,Personal,0,NA,1,surface,233,male,3,11,Bed.Sheet,Bed Sheet,Hand,2,14,168
+11.Bed.Sheet.3,11,15,5,28,0.17,Personal,0,NA,0,surface,441,male,2,11,Bed.Sheet,Bed Sheet,Hand,3,7,48
+11.Bed.Sheet.4,11,4,5,30,0.08,Personal,0,NA,0,surface,361,male,3,11,Bed.Sheet,Bed Sheet,Hand,4,21,168
+11.Desk.2,11,0,6,48,0.58,Personal,0,NA,1,surface,229,male,3,11,Desk,Desk,Hand,2,14,168
+11.Desk.3,11,15,5,28,0.17,Personal,0,NA,0,surface,442,male,2,11,Desk,Desk,Hand,3,7,48
+11.Desk.4,11,4,5,30,0.08,Personal,0,NA,0,surface,365,male,3,11,Desk,Desk,Hand,4,21,168
+11.Door.Handle.2,11,0,6,48,0.58,Personal,0,NA,1,surface,234,male,3,11,Door.Handle,Door Handle,Hand,2,14,168
+11.Door.Handle.3,11,15,5,28,0.17,Personal,0,NA,0,surface,443,male,2,11,Door.Handle,Door Handle,Hand,3,7,48
+11.Door.Handle.4,11,4,5,30,0.08,Personal,0,NA,0,surface,362,male,3,11,Door.Handle,Door Handle,Hand,4,21,168
+11.Floor.2,11,0,6,48,0.58,Personal,0,NA,1,surface,231,male,3,11,Floor,Floor,Floor,2,14,168
+11.Floor.4,11,4,5,30,0.08,Personal,0,NA,0,surface,360,male,3,11,Floor,Floor,Floor,4,21,168
+11.Hand.1,11,NA,5,NA,NA,Personal,NA,NA,0,skin,35,male,NA,11,Hand,Hand,Hand,1,NA,NA
+11.Hand.2,11,0,6,48,0.58,Personal,0,NA,1,skin,232,male,3,11,Hand,Hand,Hand,2,14,168
+11.Hand.3,11,15,5,28,0.17,Personal,0,NA,0,skin,440,male,2,11,Hand,Hand,Hand,3,7,48
+11.Hand.4,11,4,5,30,0.08,Personal,0,NA,0,skin,364,male,3,11,Hand,Hand,Hand,4,21,168
+11.Shoe.2,11,0,6,48,0.58,Personal,0,NA,1,surface,230,male,3,11,Shoe,Shoe,Floor,2,14,168
+11.Shoe.3,11,15,5,28,0.17,Personal,0,NA,0,surface,444,male,2,11,Shoe,Shoe,Floor,3,7,48
+11.Shoe.4,11,4,5,30,0.08,Personal,0,NA,0,surface,363,male,3,11,Shoe,Shoe,Floor,4,21,168
+12.Bed.Sheet.2,12,0,7,6,1,Personal,0,6,1,surface,531,female,NA,12,Bed.Sheet,Bed Sheet,Hand,2,NA,9
+12.Bed.Sheet.3,12,0,7,4,1.5,Personal,0,6,1,surface,175,female,10,12,Bed.Sheet,Bed Sheet,Hand,3,90+,0
+12.Bed.Sheet.4,12,0,7,12,2,Personal,0,6,2,surface,367,female,NA,12,Bed.Sheet,Bed Sheet,Hand,4,NA,168
+12.Desk.2,12,0,7,6,1,Personal,0,6,1,surface,534,female,NA,12,Desk,Desk,Hand,2,NA,9
+12.Desk.3,12,0,7,4,1.5,Personal,0,6,1,surface,151,female,10,12,Desk,Desk,Hand,3,90+,0
+12.Desk.4,12,0,7,12,2,Personal,0,6,2,surface,371,female,NA,12,Desk,Desk,Hand,4,NA,168
+12.Door.Handle.2,12,0,7,6,1,Personal,0,6,1,surface,530,female,NA,12,Door.Handle,Door Handle,Hand,2,NA,9
+12.Door.Handle.3,12,0,7,4,1.5,Personal,0,6,1,surface,183,female,10,12,Door.Handle,Door Handle,Hand,3,90+,0
+12.Door.Handle.4,12,0,7,12,2,Personal,0,6,2,surface,368,female,NA,12,Door.Handle,Door Handle,Hand,4,NA,168
+12.Floor.2,12,0,7,6,1,Personal,0,6,1,surface,532,female,NA,12,Floor,Floor,Floor,2,NA,9
+12.Floor.3,12,0,7,4,1.5,Personal,0,6,1,surface,159,female,10,12,Floor,Floor,Floor,3,90+,0
+12.Floor.4,12,0,7,12,2,Personal,0,6,2,surface,366,female,NA,12,Floor,Floor,Floor,4,NA,168
+12.Hand.1,12,NA,7,NA,NA,Personal,NA,6,2,skin,32,female,NA,12,Hand,Hand,Hand,1,NA,NA
+12.Hand.2,12,0,7,6,1,Personal,0,6,1,skin,533,female,NA,12,Hand,Hand,Hand,2,NA,9
+12.Hand.4,12,0,7,12,2,Personal,0,6,2,skin,370,female,NA,12,Hand,Hand,Hand,4,NA,168
+12.Shoe.2,12,0,7,6,1,Personal,0,6,1,surface,529,female,NA,12,Shoe,Shoe,Floor,2,NA,9
+12.Shoe.3,12,0,7,4,1.5,Personal,0,6,1,surface,191,female,10,12,Shoe,Shoe,Floor,3,90+,0
+12.Shoe.4,12,0,7,12,2,Personal,0,6,2,surface,369,female,NA,12,Shoe,Shoe,Floor,4,NA,168
+13.Bed.Sheet.2,13,0,5,7,1.08,Personal,0,NA,0,surface,224,female,3,13,Bed.Sheet,Bed Sheet,Hand,2,0,0
+13.Bed.Sheet.3,13,2,5,4,2,Personal,0,NA,0,surface,128,female,2,13,Bed.Sheet,Bed Sheet,Hand,3,14,0
+13.Bed.Sheet.4,13,1,5,4,0.08,Personal,0,NA,0,surface,373,female,2,13,Bed.Sheet,Bed Sheet,Hand,4,7,0
+13.Desk.2,13,0,5,7,1.08,Personal,0,NA,0,surface,225,female,3,13,Desk,Desk,Hand,2,0,0
+13.Desk.3,13,2,5,4,2,Personal,0,NA,0,surface,120,female,2,13,Desk,Desk,Hand,3,14,0
+13.Desk.4,13,1,5,4,0.08,Personal,0,NA,0,surface,377,female,2,13,Desk,Desk,Hand,4,7,0
+13.Door.Handle.2,13,0,5,7,1.08,Personal,0,NA,0,surface,223,female,3,13,Door.Handle,Door Handle,Hand,2,0,0
+13.Door.Handle.3,13,2,5,4,2,Personal,0,NA,0,surface,112,female,2,13,Door.Handle,Door Handle,Hand,3,14,0
+13.Door.Handle.4,13,1,5,4,0.08,Personal,0,NA,0,surface,374,female,2,13,Door.Handle,Door Handle,Hand,4,7,0
+13.Floor.2,13,0,5,7,1.08,Personal,0,NA,0,surface,227,female,3,13,Floor,Floor,Floor,2,0,0
+13.Floor.3,13,2,5,4,2,Personal,0,NA,0,surface,104,female,2,13,Floor,Floor,Floor,3,14,0
+13.Floor.4,13,1,5,4,0.08,Personal,0,NA,0,surface,372,female,2,13,Floor,Floor,Floor,4,7,0
+13.Hand.1,13,NA,5,NA,NA,Personal,NA,NA,0,skin,31,female,NA,13,Hand,Hand,Hand,1,NA,NA
+13.Hand.2,13,0,5,7,1.08,Personal,0,NA,0,skin,228,female,3,13,Hand,Hand,Hand,2,0,0
+13.Shoe.2,13,0,5,7,1.08,Personal,0,NA,0,surface,226,female,3,13,Shoe,Shoe,Floor,2,0,0
+13.Shoe.4,13,1,5,4,0.08,Personal,0,NA,0,surface,375,female,2,13,Shoe,Shoe,Floor,4,7,0
+14.Bed.Sheet.2,14,1,6,2,0,Personal,0,Outside Study,1,surface,247,female,10,14,Bed.Sheet,Bed Sheet,Hand,2,1,0
+14.Bed.Sheet.3,14,2,6,3,0.83,Personal,0,Outside Study,1,surface,421,female,10,14,Bed.Sheet,Bed Sheet,Hand,3,14,168
+14.Bed.Sheet.4,14,2,6,3,0.5,Personal,0,Outside Study,1,surface,581,female,10,14,Bed.Sheet,Bed Sheet,Hand,4,35,168
+14.Desk.4,14,2,6,3,0.5,Personal,0,Outside Study,1,surface,580,female,10,14,Desk,Desk,Hand,4,35,168
+14.Door.Handle.2,14,1,6,2,0,Personal,0,Outside Study,1,surface,249,female,10,14,Door.Handle,Door Handle,Hand,2,1,0
+14.Door.Handle.3,14,2,6,3,0.83,Personal,0,Outside Study,1,surface,425,female,10,14,Door.Handle,Door Handle,Hand,3,14,168
+14.Door.Handle.4,14,2,6,3,0.5,Personal,0,Outside Study,1,surface,582,female,10,14,Door.Handle,Door Handle,Hand,4,35,168
+14.Floor.2,14,1,6,2,0,Personal,0,Outside Study,1,surface,251,female,10,14,Floor,Floor,Floor,2,1,0
+14.Floor.3,14,2,6,3,0.83,Personal,0,Outside Study,1,surface,424,female,10,14,Floor,Floor,Floor,3,14,168
+14.Floor.4,14,2,6,3,0.5,Personal,0,Outside Study,1,surface,577,female,10,14,Floor,Floor,Floor,4,35,168
+14.Hand.1,14,NA,6,NA,NA,Personal,NA,Outside Study,1,skin,39,female,NA,14,Hand,Hand,Hand,1,NA,NA
+14.Hand.2,14,1,6,2,0,Personal,0,Outside Study,1,skin,252,female,10,14,Hand,Hand,Hand,2,1,0
+14.Hand.3,14,2,6,3,0.83,Personal,0,Outside Study,1,skin,426,female,10,14,Hand,Hand,Hand,3,14,168
+14.Hand.4,14,2,6,3,0.5,Personal,0,Outside Study,1,skin,578,female,10,14,Hand,Hand,Hand,4,35,168
+14.Shoe.2,14,1,6,2,0,Personal,0,Outside Study,1,surface,248,female,10,14,Shoe,Shoe,Floor,2,1,0
+14.Shoe.3,14,2,6,3,0.83,Personal,0,Outside Study,1,surface,422,female,10,14,Shoe,Shoe,Floor,3,14,168
+14.Shoe.4,14,2,6,3,0.5,Personal,0,Outside Study,1,surface,579,female,10,14,Shoe,Shoe,Floor,4,35,168
+15.Bed.Sheet.2,15,4,7,4,0.21,Personal,0,Outside Study,1,surface,255,male,2,15,Bed.Sheet,Bed Sheet,Hand,2,14,168
+15.Bed.Sheet.3,15,20,7,3,0.75,Personal,0,Outside Study,1,surface,400,male,2,15,Bed.Sheet,Bed Sheet,Hand,3,7,168
+15.Bed.Sheet.4,15,10,7,7,0.42,Personal,0,Outside Study,1,surface,588,male,2,15,Bed.Sheet,Bed Sheet,Hand,4,7,168
+15.Desk.2,15,4,7,4,0.21,Personal,0,Outside Study,1,surface,258,male,2,15,Desk,Desk,Hand,2,14,168
+15.Desk.3,15,20,7,3,0.75,Personal,0,Outside Study,1,surface,397,male,2,15,Desk,Desk,Hand,3,7,168
+15.Desk.4,15,10,7,7,0.42,Personal,0,Outside Study,1,surface,587,male,2,15,Desk,Desk,Hand,4,7,168
+15.Door.Handle.2,15,4,7,4,0.21,Personal,0,Outside Study,1,surface,253,male,2,15,Door.Handle,Door Handle,Hand,2,14,168
+15.Door.Handle.3,15,20,7,3,0.75,Personal,0,Outside Study,1,surface,399,male,2,15,Door.Handle,Door Handle,Hand,3,7,168
+15.Door.Handle.4,15,10,7,7,0.42,Personal,0,Outside Study,1,surface,584,male,2,15,Door.Handle,Door Handle,Hand,4,7,168
+15.Floor.2,15,4,7,4,0.21,Personal,0,Outside Study,1,surface,254,male,2,15,Floor,Floor,Floor,2,14,168
+15.Floor.3,15,20,7,3,0.75,Personal,0,Outside Study,1,surface,398,male,2,15,Floor,Floor,Floor,3,7,168
+15.Floor.4,15,10,7,7,0.42,Personal,0,Outside Study,1,surface,586,male,2,15,Floor,Floor,Floor,4,7,168
+15.Hand.1,15,NA,7,NA,NA,Personal,NA,Outside Study,1,skin,41,male,NA,15,Hand,Hand,Hand,1,NA,NA
+15.Hand.2,15,4,7,4,0.21,Personal,0,Outside Study,1,skin,257,male,2,15,Hand,Hand,Hand,2,14,168
+15.Hand.3,15,20,7,3,0.75,Personal,0,Outside Study,1,skin,401,male,2,15,Hand,Hand,Hand,3,7,168
+15.Hand.4,15,10,7,7,0.42,Personal,0,Outside Study,1,skin,585,male,2,15,Hand,Hand,Hand,4,7,168
+15.Shoe.2,15,4,7,4,0.21,Personal,0,Outside Study,1,surface,256,male,2,15,Shoe,Shoe,Floor,2,14,168
+15.Shoe.4,15,10,7,7,0.42,Personal,0,Outside Study,1,surface,583,male,2,15,Shoe,Shoe,Floor,4,7,168
+16.Bed.Sheet.2,16,3,7,15,NA,Personal,1,9,1,surface,266,male,2.5,16,Bed.Sheet,Bed Sheet,Hand,2,21,4
+16.Bed.Sheet.3,16,4,7,9,1.46,Personal,1,9,1,surface,66,male,4,16,Bed.Sheet,Bed Sheet,Hand,3,0,20
+16.Bed.Sheet.4,16,6,7,10,0.54,Personal,1,9,1,surface,592,male,3,16,Bed.Sheet,Bed Sheet,Hand,4,14,168
+16.Desk.2,16,3,7,15,NA,Personal,1,9,1,surface,269,male,2.5,16,Desk,Desk,Hand,2,21,4
+16.Desk.3,16,4,7,9,1.46,Personal,1,9,1,surface,61,male,4,16,Desk,Desk,Hand,3,0,20
+16.Door.Handle.3,16,4,7,9,1.46,Personal,1,9,1,surface,63,male,4,16,Door.Handle,Door Handle,Hand,3,0,20
+16.Door.Handle.4,16,6,7,10,0.54,Personal,1,9,1,surface,593,male,3,16,Door.Handle,Door Handle,Hand,4,14,168
+16.Floor.2,16,3,7,15,NA,Personal,1,9,1,surface,265,male,2.5,16,Floor,Floor,Floor,2,21,4
+16.Floor.3,16,4,7,9,1.46,Personal,1,9,1,surface,62,male,4,16,Floor,Floor,Floor,3,0,20
+16.Floor.4,16,6,7,10,0.54,Personal,1,9,1,surface,590,male,3,16,Floor,Floor,Floor,4,14,168
+16.Hand.1,16,NA,7,NA,NA,Personal,NA,9,1,skin,40,male,NA,16,Hand,Hand,Hand,1,NA,NA
+16.Hand.2,16,3,7,15,NA,Personal,1,9,1,skin,268,male,2.5,16,Hand,Hand,Hand,2,21,4
+16.Hand.3,16,4,7,9,1.46,Personal,1,9,1,skin,64,male,4,16,Hand,Hand,Hand,3,0,20
+16.Hand.4,16,6,7,10,0.54,Personal,1,9,1,skin,594,male,3,16,Hand,Hand,Hand,4,14,168
+16.Shoe.2,16,3,7,15,NA,Personal,1,9,1,surface,270,male,2.5,16,Shoe,Shoe,Floor,2,21,4
+16.Shoe.3,16,4,7,9,1.46,Personal,1,9,1,surface,65,male,4,16,Shoe,Shoe,Floor,3,0,20
+16.Shoe.4,16,6,7,10,0.54,Personal,1,9,1,surface,589,male,3,16,Shoe,Shoe,Floor,4,14,168
+17.Bed.Sheet.2,17,NA,5,NA,NA,Personal,NA,NA,NA,surface,221,NA,NA,17,Bed.Sheet,Bed Sheet,Hand,2,NA,NA
+17.Bed.Sheet.3,17,NA,5,NA,NA,Personal,NA,NA,NA,surface,498,NA,NA,17,Bed.Sheet,Bed Sheet,Hand,3,NA,NA
+17.Desk.2,17,NA,5,NA,NA,Personal,NA,NA,NA,surface,219,NA,NA,17,Desk,Desk,Hand,2,NA,NA
+17.Desk.3,17,NA,5,NA,NA,Personal,NA,NA,NA,surface,494,NA,NA,17,Desk,Desk,Hand,3,NA,NA
+17.Door.Handle.2,17,NA,5,NA,NA,Personal,NA,NA,NA,surface,218,NA,NA,17,Door.Handle,Door Handle,Hand,2,NA,NA
+17.Door.Handle.3,17,NA,5,NA,NA,Personal,NA,NA,NA,surface,497,NA,NA,17,Door.Handle,Door Handle,Hand,3,NA,NA
+17.Floor.2,17,NA,5,NA,NA,Personal,NA,NA,NA,surface,217,NA,NA,17,Floor,Floor,Floor,2,NA,NA
+17.Floor.3,17,NA,5,NA,NA,Personal,NA,NA,NA,surface,496,NA,NA,17,Floor,Floor,Floor,3,NA,NA
+17.Hand.1,17,NA,5,NA,NA,Personal,NA,NA,NA,skin,42,NA,NA,17,Hand,Hand,Hand,1,NA,NA
+17.Hand.2,17,NA,5,NA,NA,Personal,NA,NA,NA,skin,220,NA,NA,17,Hand,Hand,Hand,2,NA,NA
+17.Hand.3,17,NA,5,NA,NA,Personal,NA,NA,NA,skin,495,NA,NA,17,Hand,Hand,Hand,3,NA,NA
+17.Shoe.2,17,NA,5,NA,NA,Personal,NA,NA,NA,surface,222,NA,NA,17,Shoe,Shoe,Floor,2,NA,NA
+17.Shoe.3,17,NA,5,NA,NA,Personal,NA,NA,NA,surface,493,NA,NA,17,Shoe,Shoe,Floor,3,NA,NA
+18.Bed.Sheet.2,18,6,7,2,0.25,Personal,0,NA,0,surface,416,male,4,18,Bed.Sheet,Bed Sheet,Hand,2,28,5
+18.Bed.Sheet.3,18,12,7,8,0.58,Personal,0,NA,0,surface,552,male,7,18,Bed.Sheet,Bed Sheet,Hand,3,70+,2
+18.Desk.2,18,6,7,2,0.25,Personal,0,NA,0,surface,420,male,4,18,Desk,Desk,Hand,2,28,5
+18.Desk.3,18,12,7,8,0.58,Personal,0,NA,0,surface,548,male,7,18,Desk,Desk,Hand,3,70+,2
+18.Door.Handle.2,18,6,7,2,0.25,Personal,0,NA,0,surface,415,male,4,18,Door.Handle,Door Handle,Hand,2,28,5
+18.Door.Handle.3,18,12,7,8,0.58,Personal,0,NA,0,surface,550,male,7,18,Door.Handle,Door Handle,Hand,3,70+,2
+18.Floor.2,18,6,7,2,0.25,Personal,0,NA,0,surface,419,male,4,18,Floor,Floor,Floor,2,28,5
+18.Floor.3,18,12,7,8,0.58,Personal,0,NA,0,surface,547,male,7,18,Floor,Floor,Floor,3,70+,2
+18.Hand.1,18,NA,7,NA,NA,Personal,NA,NA,0,skin,37,male,NA,18,Hand,Hand,Hand,1,NA,NA
+18.Hand.2,18,6,7,2,0.25,Personal,0,NA,0,skin,417,male,4,18,Hand,Hand,Hand,2,28,5
+18.Hand.3,18,12,7,8,0.58,Personal,0,NA,0,skin,549,male,7,18,Hand,Hand,Hand,3,70+,2
+18.Shoe.2,18,6,7,2,0.25,Personal,0,NA,0,surface,418,male,4,18,Shoe,Shoe,Floor,2,28,5
+18.Shoe.3,18,12,7,8,0.58,Personal,0,NA,0,surface,551,male,7,18,Shoe,Shoe,Floor,3,70+,2
+19.Bed.Sheet.2,19,28,5,10,1,Personal,0,20,1,surface,140,female,2,19,Bed.Sheet,Bed Sheet,Hand,2,2,0
+19.Bed.Sheet.3,19,10,5,15,1,Personal,0,20,1,surface,468,female,2,19,Bed.Sheet,Bed Sheet,Hand,3,14,0
+19.Bed.Sheet.4,19,5,5,12,1,Personal,0,20,1,surface,595,female,4,19,Bed.Sheet,Bed Sheet,Hand,4,28,10
+19.Desk.2,19,28,5,10,1,Personal,0,20,1,surface,100,female,2,19,Desk,Desk,Hand,2,2,0
+19.Desk.3,19,10,5,15,1,Personal,0,20,1,surface,463,female,2,19,Desk,Desk,Hand,3,14,0
+19.Door.Handle.2,19,28,5,10,1,Personal,0,20,1,surface,132,female,2,19,Door.Handle,Door Handle,Hand,2,2,0
+19.Door.Handle.3,19,10,5,15,1,Personal,0,20,1,surface,464,female,2,19,Door.Handle,Door Handle,Hand,3,14,0
+19.Floor.2,19,28,5,10,1,Personal,0,20,1,surface,108,female,2,19,Floor,Floor,Floor,2,2,0
+19.Floor.3,19,10,5,15,1,Personal,0,20,1,surface,465,female,2,19,Floor,Floor,Floor,3,14,0
+19.Floor.4,19,5,5,12,1,Personal,0,20,1,surface,600,female,4,19,Floor,Floor,Floor,4,28,10
+19.Hand.1,19,NA,5,NA,NA,Personal,NA,20,1,skin,38,female,NA,19,Hand,Hand,Hand,1,NA,NA
+19.Hand.2,19,28,5,10,1,Personal,0,20,1,skin,124,female,2,19,Hand,Hand,Hand,2,2,0
+19.Hand.3,19,10,5,15,1,Personal,0,20,1,skin,466,female,2,19,Hand,Hand,Hand,3,14,0
+19.Hand.4,19,5,5,12,1,Personal,0,20,1,skin,599,female,4,19,Hand,Hand,Hand,4,28,10
+19.Shoe.2,19,28,5,10,1,Personal,0,20,1,surface,116,female,2,19,Shoe,Shoe,Floor,2,2,0
+19.Shoe.3,19,10,5,15,1,Personal,0,20,1,surface,467,female,2,19,Shoe,Shoe,Floor,3,14,0
+19.Shoe.4,19,5,5,12,1,Personal,0,20,1,surface,596,female,4,19,Shoe,Shoe,Floor,4,28,10
+2.Bed.Sheet.2,2,NA,8,NA,NA,Personal,NA,NA,1,surface,200,male,NA,2,Bed.Sheet,Bed Sheet,Hand,2,NA,NA
+2.Bed.Sheet.3,2,NA,8,NA,NA,Personal,NA,NA,1,surface,280,male,NA,2,Bed.Sheet,Bed Sheet,Hand,3,NA,NA
+2.Bed.Sheet.4,2,12,8,4,0.21,Personal,0,NA,1,surface,307,male,2,2,Bed.Sheet,Bed Sheet,Hand,4,3,168
+2.Desk.2,2,NA,8,NA,NA,Personal,NA,NA,1,surface,201,male,NA,2,Desk,Desk,Hand,2,NA,NA
+2.Desk.3,2,NA,8,NA,NA,Personal,NA,NA,1,surface,281,male,NA,2,Desk,Desk,Hand,3,NA,NA
+2.Door.Handle.2,2,NA,8,NA,NA,Personal,NA,NA,1,surface,203,male,NA,2,Door.Handle,Door Handle,Hand,2,NA,NA
+2.Door.Handle.3,2,NA,8,NA,NA,Personal,NA,NA,1,surface,278,male,NA,2,Door.Handle,Door Handle,Hand,3,NA,NA
+2.Door.Handle.4,2,12,8,4,0.21,Personal,0,NA,1,surface,308,male,2,2,Door.Handle,Door Handle,Hand,4,3,168
+2.Floor.2,2,NA,8,NA,NA,Personal,NA,NA,1,surface,199,male,NA,2,Floor,Floor,Floor,2,NA,NA
+2.Floor.3,2,NA,8,NA,NA,Personal,NA,NA,1,surface,279,male,NA,2,Floor,Floor,Floor,3,NA,NA
+2.Floor.4,2,12,8,4,0.21,Personal,0,NA,1,surface,306,male,2,2,Floor,Floor,Floor,4,3,168
+2.Hand.2,2,NA,8,NA,NA,Personal,NA,NA,1,skin,202,male,NA,2,Hand,Hand,Hand,2,NA,NA
+2.Hand.3,2,NA,8,NA,NA,Personal,NA,NA,1,skin,277,male,NA,2,Hand,Hand,Hand,3,NA,NA
+2.Hand.4,2,12,8,4,0.21,Personal,0,NA,1,skin,310,male,2,2,Hand,Hand,Hand,4,3,168
+2.Shoe.2,2,NA,8,NA,NA,Personal,NA,NA,1,surface,204,male,NA,2,Shoe,Shoe,Floor,2,NA,NA
+2.Shoe.3,2,NA,8,NA,NA,Personal,NA,NA,1,surface,282,male,NA,2,Shoe,Shoe,Floor,3,NA,NA
+2.Shoe.4,2,12,8,4,0.21,Personal,0,NA,1,surface,309,male,2,2,Shoe,Shoe,Floor,4,3,168
+20.Bed.Sheet.2,20,8,5,2,1.67,Personal,0,19,1,surface,196,female,3.5,20,Bed.Sheet,Bed Sheet,Hand,2,14,2
+20.Bed.Sheet.3,20,12,5,1,1,Personal,0,19,1,surface,492,female,3.5,20,Bed.Sheet,Bed Sheet,Hand,3,21,0
+20.Desk.3,20,12,5,1,1,Personal,0,19,1,surface,488,female,3.5,20,Desk,Desk,Hand,3,21,0
+20.Door.Handle.2,20,8,5,2,1.67,Personal,0,19,1,surface,195,female,3.5,20,Door.Handle,Door Handle,Hand,2,14,2
+20.Door.Handle.3,20,12,5,1,1,Personal,0,19,1,surface,489,female,3.5,20,Door.Handle,Door Handle,Hand,3,21,0
+20.Floor.2,20,8,5,2,1.67,Personal,0,19,1,surface,198,female,3.5,20,Floor,Floor,Floor,2,14,2
+20.Floor.3,20,12,5,1,1,Personal,0,19,1,surface,490,female,3.5,20,Floor,Floor,Floor,3,21,0
+20.Hand.1,20,NA,5,NA,NA,Personal,NA,19,1,skin,56,female,NA,20,Hand,Hand,Hand,1,NA,NA
+20.Hand.2,20,8,5,2,1.67,Personal,0,19,1,skin,193,female,3.5,20,Hand,Hand,Hand,2,14,2
+20.Hand.3,20,12,5,1,1,Personal,0,19,1,skin,487,female,3.5,20,Hand,Hand,Hand,3,21,0
+20.Shoe.2,20,8,5,2,1.67,Personal,0,19,1,surface,197,female,3.5,20,Shoe,Shoe,Floor,2,14,2
+20.Shoe.3,20,12,5,1,1,Personal,0,19,1,surface,491,female,3.5,20,Shoe,Shoe,Floor,3,21,0
+21.Bed.Sheet.2,21,0,6,5.5,0.38,Personal,2,NA,0,surface,570,female,2.4,21,Bed.Sheet,Bed Sheet,Hand,2,18,2
+21.Bed.Sheet.3,21,0,6,16,0.33,Personal,2,NA,0,surface,237,female,2,21,Bed.Sheet,Bed Sheet,Hand,3,1.5,0
+21.Bed.Sheet.4,21,0,6,8,0.33,Personal,2,NA,0,surface,601,female,2,21,Bed.Sheet,Bed Sheet,Hand,4,7,4.5
+21.Desk.2,21,0,6,5.5,0.38,Personal,2,NA,0,surface,569,female,2.4,21,Desk,Desk,Hand,2,18,2
+21.Desk.3,21,0,6,16,0.33,Personal,2,NA,0,surface,239,female,2,21,Desk,Desk,Hand,3,1.5,0
+21.Desk.4,21,0,6,8,0.33,Personal,2,NA,0,surface,603,female,2,21,Desk,Desk,Hand,4,7,4.5
+21.Door.Handle.2,21,0,6,5.5,0.38,Personal,2,NA,0,surface,567,female,2.4,21,Door.Handle,Door Handle,Hand,2,18,2
+21.Door.Handle.3,21,0,6,16,0.33,Personal,2,NA,0,surface,238,female,2,21,Door.Handle,Door Handle,Hand,3,1.5,0
+21.Door.Handle.4,21,0,6,8,0.33,Personal,2,NA,0,surface,606,female,2,21,Door.Handle,Door Handle,Hand,4,7,4.5
+21.Floor.2,21,0,6,5.5,0.38,Personal,2,NA,0,surface,565,female,2.4,21,Floor,Floor,Floor,2,18,2
+21.Floor.3,21,0,6,16,0.33,Personal,2,NA,0,surface,235,female,2,21,Floor,Floor,Floor,3,1.5,0
+21.Floor.4,21,0,6,8,0.33,Personal,2,NA,0,surface,604,female,2,21,Floor,Floor,Floor,4,7,4.5
+21.Hand.2,21,0,6,5.5,0.38,Personal,2,NA,0,skin,566,female,2.4,21,Hand,Hand,Hand,2,18,2
+21.Hand.3,21,0,6,16,0.33,Personal,2,NA,0,skin,240,female,2,21,Hand,Hand,Hand,3,1.5,0
+21.Hand.4,21,0,6,8,0.33,Personal,2,NA,0,skin,602,female,2,21,Hand,Hand,Hand,4,7,4.5
+21.Shoe.2,21,0,6,5.5,0.38,Personal,2,NA,0,surface,568,female,2.4,21,Shoe,Shoe,Floor,2,18,2
+21.Shoe.3,21,0,6,16,0.33,Personal,2,NA,0,surface,236,female,2,21,Shoe,Shoe,Floor,3,1.5,0
+21.Shoe.4,21,0,6,8,0.33,Personal,2,NA,0,surface,605,female,2,21,Shoe,Shoe,Floor,4,7,4.5
+22.Bed.Sheet.3,22,4,5,4,0,Personal,0,22,1,surface,461,male,5,22,Bed.Sheet,Bed Sheet,Hand,3,7,0
+22.Desk.2,22,0,5,4,1.21,Personal,0,22,1,surface,130,male,NA,22,Desk,Desk,Hand,2,NA,0
+22.Desk.3,22,4,5,4,0,Personal,0,22,1,surface,457,male,5,22,Desk,Desk,Hand,3,7,0
+22.Desk.4,22,2,5,8,2.71,Personal,0,22,1,surface,613,male,NA,22,Desk,Desk,Hand,4,NA,0
+22.Door.Handle.2,22,0,5,4,1.21,Personal,0,22,1,surface,122,male,NA,22,Door.Handle,Door Handle,Hand,2,NA,0
+22.Door.Handle.3,22,4,5,4,0,Personal,0,22,1,surface,462,male,5,22,Door.Handle,Door Handle,Hand,3,7,0
+22.Floor.3,22,4,5,4,0,Personal,0,22,1,surface,458,male,5,22,Floor,Floor,Floor,3,7,0
+22.Floor.4,22,2,5,8,2.71,Personal,0,22,1,surface,607,male,NA,22,Floor,Floor,Floor,4,NA,0
+22.Hand.1,22,NA,5,NA,NA,Personal,NA,27,1,skin,58,male,NA,22,Hand,Hand,Hand,1,NA,NA
+22.Hand.3,22,4,5,4,0,Personal,0,22,1,skin,459,male,5,22,Hand,Hand,Hand,3,7,0
+22.Hand.4,22,2,5,8,2.71,Personal,0,22,1,skin,612,male,NA,22,Hand,Hand,Hand,4,NA,0
+22.Shoe.2,22,0,5,4,1.21,Personal,0,22,1,surface,114,male,NA,22,Shoe,Shoe,Floor,2,NA,0
+22.Shoe.3,22,4,5,4,0,Personal,0,22,1,surface,460,male,5,22,Shoe,Shoe,Floor,3,7,0
+23.Bed.Sheet.2,23,NA,8,NA,NA,Personal,NA,NA,0,surface,504,male,NA,23,Bed.Sheet,Bed Sheet,Hand,2,NA,NA
+23.Bed.Sheet.3,23,5,8,12,0.33,Personal,0,NA,0,surface,168,male,NA,23,Bed.Sheet,Bed Sheet,Hand,3,1,0
+23.Desk.2,23,NA,8,NA,NA,Personal,NA,NA,0,surface,501,male,NA,23,Desk,Desk,Hand,2,NA,NA
+23.Desk.3,23,5,8,12,0.33,Personal,0,NA,0,surface,184,male,NA,23,Desk,Desk,Hand,3,1,0
+23.Desk.4,23,NA,8,NA,NA,Personal,NA,NA,0,surface,614,male,NA,23,Desk,Desk,Hand,4,NA,NA
+23.Door.Handle.2,23,NA,8,NA,NA,Personal,NA,NA,0,surface,502,male,NA,23,Door.Handle,Door Handle,Hand,2,NA,NA
+23.Door.Handle.3,23,5,8,12,0.33,Personal,0,NA,0,surface,152,male,NA,23,Door.Handle,Door Handle,Hand,3,1,0
+23.Door.Handle.4,23,NA,8,NA,NA,Personal,NA,NA,0,surface,617,male,NA,23,Door.Handle,Door Handle,Hand,4,NA,NA
+23.Floor.2,23,NA,8,NA,NA,Personal,NA,NA,0,surface,503,male,NA,23,Floor,Floor,Floor,2,NA,NA
+23.Floor.3,23,5,8,12,0.33,Personal,0,NA,0,surface,192,male,NA,23,Floor,Floor,Floor,3,1,0
+23.Floor.4,23,NA,8,NA,NA,Personal,NA,NA,0,surface,616,male,NA,23,Floor,Floor,Floor,4,NA,NA
+23.Hand.1,23,NA,8,NA,NA,Personal,NA,NA,0,skin,60,male,NA,23,Hand,Hand,Hand,1,NA,NA
+23.Hand.2,23,NA,8,NA,NA,Personal,NA,NA,0,skin,499,male,NA,23,Hand,Hand,Hand,2,NA,NA
+23.Hand.3,23,5,8,12,0.33,Personal,0,NA,0,skin,176,male,NA,23,Hand,Hand,Hand,3,1,0
+23.Hand.4,23,NA,8,NA,NA,Personal,NA,NA,0,skin,615,male,NA,23,Hand,Hand,Hand,4,NA,NA
+23.Shoe.2,23,NA,8,NA,NA,Personal,NA,NA,0,surface,500,male,NA,23,Shoe,Shoe,Floor,2,NA,NA
+23.Shoe.4,23,NA,8,NA,NA,Personal,NA,NA,0,surface,618,male,NA,23,Shoe,Shoe,Floor,4,NA,NA
+24.Bed.Sheet.2,24,12,8,6,0.5,Personal,0,NA,0,surface,173,male,2,24,Bed.Sheet,Bed Sheet,Hand,2,0,8
+24.Bed.Sheet.3,24,12,8,3,0.5,Personal,0,NA,0,surface,214,male,2,24,Bed.Sheet,Bed Sheet,Hand,3,21,0
+24.Desk.2,24,12,8,6,0.5,Personal,0,NA,0,surface,189,male,2,24,Desk,Desk,Hand,2,0,8
+24.Desk.3,24,12,8,3,0.5,Personal,0,NA,0,surface,215,male,2,24,Desk,Desk,Hand,3,21,0
+24.Door.Handle.2,24,12,8,6,0.5,Personal,0,NA,0,surface,157,male,2,24,Door.Handle,Door Handle,Hand,2,0,8
+24.Door.Handle.3,24,12,8,3,0.5,Personal,0,NA,0,surface,216,male,2,24,Door.Handle,Door Handle,Hand,3,21,0
+24.Floor.3,24,12,8,3,0.5,Personal,0,NA,0,surface,213,male,2,24,Floor,Floor,Floor,3,21,0
+24.Hand.1,24,NA,8,NA,NA,Personal,NA,NA,0,skin,59,male,NA,24,Hand,Hand,Hand,1,NA,NA
+24.Hand.3,24,12,8,3,0.5,Personal,0,NA,0,skin,211,male,2,24,Hand,Hand,Hand,3,21,0
+24.Shoe.2,24,12,8,6,0.5,Personal,0,NA,0,surface,181,male,2,24,Shoe,Shoe,Floor,2,0,8
+24.Shoe.3,24,12,8,3,0.5,Personal,0,NA,0,surface,212,male,2,24,Shoe,Shoe,Floor,3,21,0
+25.Bed.Sheet.2,25,4,7,16,1.5,Personal,0,Outside Study,1,surface,179,female,3,25,Bed.Sheet,Bed Sheet,Hand,2,15,0
+25.Bed.Sheet.4,25,10,7,3.5,0.08,Personal,0,Outside Study,1,surface,621,female,4,25,Bed.Sheet,Bed Sheet,Hand,4,7,168
+25.Desk.3,25,14,7,6,1.5,Personal,0,Outside Study,1,surface,412,female,4,25,Desk,Desk,Hand,3,21,0
+25.Desk.4,25,10,7,3.5,0.08,Personal,0,Outside Study,1,surface,620,female,4,25,Desk,Desk,Hand,4,7,168
+25.Door.Handle.3,25,14,7,6,1.5,Personal,0,Outside Study,1,surface,414,female,4,25,Door.Handle,Door Handle,Hand,3,21,0
+25.Door.Handle.4,25,10,7,3.5,0.08,Personal,0,Outside Study,1,surface,622,female,4,25,Door.Handle,Door Handle,Hand,4,7,168
+25.Floor.3,25,14,7,6,1.5,Personal,0,Outside Study,1,surface,409,female,4,25,Floor,Floor,Floor,3,21,0
+25.Floor.4,25,10,7,3.5,0.08,Personal,0,Outside Study,1,surface,624,female,4,25,Floor,Floor,Floor,4,7,168
+25.Hand.1,25,NA,7,NA,NA,Personal,NA,Outside Study,1,skin,16,female,NA,25,Hand,Hand,Hand,1,NA,NA
+25.Hand.2,25,4,7,16,1.5,Personal,0,Outside Study,1,skin,171,female,3,25,Hand,Hand,Hand,2,15,0
+25.Hand.3,25,14,7,6,1.5,Personal,0,Outside Study,1,skin,410,female,4,25,Hand,Hand,Hand,3,21,0
+25.Hand.4,25,10,7,3.5,0.08,Personal,0,Outside Study,1,skin,623,female,4,25,Hand,Hand,Hand,4,7,168
+25.Shoe.2,25,4,7,16,1.5,Personal,0,Outside Study,1,surface,187,female,3,25,Shoe,Shoe,Floor,2,15,0
+25.Shoe.3,25,14,7,6,1.5,Personal,0,Outside Study,1,surface,413,female,4,25,Shoe,Shoe,Floor,3,21,0
+25.Shoe.4,25,10,7,3.5,0.08,Personal,0,Outside Study,1,surface,619,female,4,25,Shoe,Shoe,Floor,4,7,168
+26.Bed.Sheet.2,26,2,5,6,0.67,Personal,0,NA,0,surface,262,male,8,26,Bed.Sheet,Bed Sheet,Hand,2,60,168
+26.Bed.Sheet.3,26,3,5,8,0.13,Personal,0,NA,0,surface,473,male,8,26,Bed.Sheet,Bed Sheet,Hand,3,28,168
+26.Bed.Sheet.4,26,3,5,10,0.5,Personal,0,NA,0,surface,630,male,10,26,Bed.Sheet,Bed Sheet,Hand,4,90+,168
+26.Desk.2,26,2,5,6,0.67,Personal,0,NA,0,surface,259,male,8,26,Desk,Desk,Hand,2,60,168
+26.Desk.3,26,3,5,8,0.13,Personal,0,NA,0,surface,469,male,8,26,Desk,Desk,Hand,3,28,168
+26.Desk.4,26,3,5,10,0.5,Personal,0,NA,0,surface,626,male,10,26,Desk,Desk,Hand,4,90+,168
+26.Door.Handle.2,26,2,5,6,0.67,Personal,0,NA,0,surface,264,male,8,26,Door.Handle,Door Handle,Hand,2,60,168
+26.Door.Handle.3,26,3,5,8,0.13,Personal,0,NA,0,surface,471,male,8,26,Door.Handle,Door Handle,Hand,3,28,168
+26.Door.Handle.4,26,3,5,10,0.5,Personal,0,NA,0,surface,629,male,10,26,Door.Handle,Door Handle,Hand,4,90+,168
+26.Floor.2,26,2,5,6,0.67,Personal,0,NA,0,surface,263,male,8,26,Floor,Floor,Floor,2,60,168
+26.Floor.3,26,3,5,8,0.13,Personal,0,NA,0,surface,474,male,8,26,Floor,Floor,Floor,3,28,168
+26.Floor.4,26,3,5,10,0.5,Personal,0,NA,0,surface,628,male,10,26,Floor,Floor,Floor,4,90+,168
+26.Hand.1,26,NA,5,NA,NA,Personal,NA,NA,0,skin,18,male,NA,26,Hand,Hand,Hand,1,NA,NA
+26.Hand.2,26,2,5,6,0.67,Personal,0,NA,0,skin,260,male,8,26,Hand,Hand,Hand,2,60,168
+26.Hand.3,26,3,5,8,0.13,Personal,0,NA,0,skin,472,male,8,26,Hand,Hand,Hand,3,28,168
+26.Hand.4,26,3,5,10,0.5,Personal,0,NA,0,skin,627,male,10,26,Hand,Hand,Hand,4,90+,168
+26.Shoe.2,26,2,5,6,0.67,Personal,0,NA,0,surface,261,male,8,26,Shoe,Shoe,Floor,2,60,168
+26.Shoe.3,26,3,5,8,0.13,Personal,0,NA,0,surface,470,male,8,26,Shoe,Shoe,Floor,3,28,168
+26.Shoe.4,26,3,5,10,0.5,Personal,0,NA,0,surface,625,male,10,26,Shoe,Shoe,Floor,4,90+,168
+27.Hand.1,27,NA,,NA,NA,Personal,NA,22,NA,skin,15,NA,NA,27,Hand,Hand,Hand,1,NA,NA
+28.Bed.Sheet.2,28,0,8,4,1,Personal,4,"35, 29, 36",3,surface,137,male,3,28,Bed.Sheet,Bed Sheet,Hand,2,8,0
+28.Bed.Sheet.3,28,0,8,3,3,Personal,4,"35, 29, 36",3,surface,154,male,10,28,Bed.Sheet,Bed Sheet,Hand,3,3,0
+28.Desk.2,28,0,8,4,1,Personal,4,"35, 29, 36",3,surface,105,male,3,28,Desk,Desk,Hand,2,8,0
+28.Desk.3,28,0,8,3,3,Personal,4,"35, 29, 36",3,surface,186,male,10,28,Desk,Desk,Hand,3,3,0
+28.Door.Handle.2,28,0,8,4,1,Personal,4,"35, 29, 36",3,surface,121,male,3,28,Door.Handle,Door Handle,Hand,2,8,0
+28.Door.Handle.3,28,0,8,3,3,Personal,4,"35, 29, 36",3,surface,146,male,10,28,Door.Handle,Door Handle,Hand,3,3,0
+28.Floor.2,28,0,8,4,1,Personal,4,"35, 29, 36",3,surface,97,male,3,28,Floor,Floor,Floor,2,8,0
+28.Floor.3,28,0,8,3,3,Personal,4,"35, 29, 36",3,surface,178,male,10,28,Floor,Floor,Floor,3,3,0
+28.Hand.1,28,NA,8,NA,NA,Personal,NA,"35, 29, 36",3,skin,13,male,NA,28,Hand,Hand,Hand,1,NA,NA
+28.Hand.2,28,0,8,4,1,Personal,4,"35, 29, 36",3,skin,113,male,3,28,Hand,Hand,Hand,2,8,0
+28.Hand.3,28,0,8,3,3,Personal,4,"35, 29, 36",3,skin,170,male,10,28,Hand,Hand,Hand,3,3,0
+28.Shoe.2,28,0,8,4,1,Personal,4,"35, 29, 36",3,surface,129,male,3,28,Shoe,Shoe,Floor,2,8,0
+28.Shoe.3,28,0,8,3,3,Personal,4,"35, 29, 36",3,surface,162,male,10,28,Shoe,Shoe,Floor,3,3,0
+29.Bed.Sheet.2,29,0,8,4,0.13,Personal,0,"28,35,26",3,surface,438,female,4,29,Bed.Sheet,Bed Sheet,Hand,2,21,0
+29.Bed.Sheet.3,29,1,8,8,0.38,Personal,0,"28,35,26",3,surface,188,female,4,29,Bed.Sheet,Bed Sheet,Hand,3,28,0
+29.Bed.Sheet.4,29,0,8,2,0.33,Personal,0,"28,35,26",3,surface,636,female,3.5,29,Bed.Sheet,Bed Sheet,Hand,4,21,0
+29.Desk.2,29,0,8,4,0.13,Personal,0,"28,35,26",3,surface,435,female,4,29,Desk,Desk,Hand,2,21,0
+29.Desk.3,29,1,8,8,0.38,Personal,0,"28,35,26",3,surface,180,female,4,29,Desk,Desk,Hand,3,28,0
+29.Desk.4,29,0,8,2,0.33,Personal,0,"28,35,26",3,surface,631,female,3.5,29,Desk,Desk,Hand,4,21,0
+29.Door.Handle.2,29,0,8,4,0.13,Personal,0,"28,35,26",3,surface,434,female,4,29,Door.Handle,Door Handle,Hand,2,21,0
+29.Door.Handle.3,29,1,8,8,0.38,Personal,0,"28,35,26",3,surface,148,female,4,29,Door.Handle,Door Handle,Hand,3,28,0
+29.Door.Handle.4,29,0,8,2,0.33,Personal,0,"28,35,26",3,surface,633,female,3.5,29,Door.Handle,Door Handle,Hand,4,21,0
+29.Floor.2,29,0,8,4,0.13,Personal,0,"28,35,26",3,surface,433,female,4,29,Floor,Floor,Floor,2,21,0
+29.Floor.4,29,0,8,2,0.33,Personal,0,"28,35,26",3,surface,632,female,3.5,29,Floor,Floor,Floor,4,21,0
+29.Hand.1,29,NA,8,NA,NA,Personal,NA,"28,35,26",3,skin,14,female,NA,29,Hand,Hand,Hand,1,NA,NA
+29.Hand.2,29,0,8,4,0.13,Personal,0,"28,35,26",3,skin,437,female,4,29,Hand,Hand,Hand,2,21,0
+29.Hand.3,29,1,8,8,0.38,Personal,0,"28,35,26",3,skin,164,female,4,29,Hand,Hand,Hand,3,28,0
+29.Hand.4,29,0,8,2,0.33,Personal,0,"28,35,26",3,skin,635,female,3.5,29,Hand,Hand,Hand,4,21,0
+29.Shoe.2,29,0,8,4,0.13,Personal,0,"28,35,26",3,surface,436,female,4,29,Shoe,Shoe,Floor,2,21,0
+29.Shoe.3,29,1,8,8,0.38,Personal,0,"28,35,26",3,surface,172,female,4,29,Shoe,Shoe,Floor,3,28,0
+29.Shoe.4,29,0,8,2,0.33,Personal,0,"28,35,26",3,surface,634,female,3.5,29,Shoe,Shoe,Floor,4,21,0
+3.Bed.Sheet.2,3,4,8,24,0.38,Personal,0,NA,0,surface,481,male,5,3,Bed.Sheet,Bed Sheet,Hand,2,7,17.5
+3.Bed.Sheet.3,3,40,8,2,0.63,Personal,0,NA,0,surface,560,male,5,3,Bed.Sheet,Bed Sheet,Hand,3,21,168
+3.Bed.Sheet.4,3,25,8,6,0,Personal,0,NA,0,surface,313,male,5,3,Bed.Sheet,Bed Sheet,Hand,4,35,168
+3.Desk.2,3,4,8,24,0.38,Personal,0,NA,0,surface,486,male,5,3,Desk,Desk,Hand,2,7,17.5
+3.Desk.3,3,40,8,2,0.63,Personal,0,NA,0,surface,563,male,5,3,Desk,Desk,Hand,3,21,168
+3.Desk.4,3,25,8,6,0,Personal,0,NA,0,surface,317,male,5,3,Desk,Desk,Hand,4,35,168
+3.Door.Handle.2,3,4,8,24,0.38,Personal,0,NA,0,surface,483,male,5,3,Door.Handle,Door Handle,Hand,2,7,17.5
+3.Door.Handle.3,3,40,8,2,0.63,Personal,0,NA,0,surface,562,male,5,3,Door.Handle,Door Handle,Hand,3,21,168
+3.Door.Handle.4,3,25,8,6,0,Personal,0,NA,0,surface,314,male,5,3,Door.Handle,Door Handle,Hand,4,35,168
+3.Floor.2,3,4,8,24,0.38,Personal,0,NA,0,surface,482,male,5,3,Floor,Floor,Floor,2,7,17.5
+3.Floor.3,3,40,8,2,0.63,Personal,0,NA,0,surface,561,male,5,3,Floor,Floor,Floor,3,21,168
+3.Floor.4,3,25,8,6,0,Personal,0,NA,0,surface,312,male,5,3,Floor,Floor,Floor,4,35,168
+3.Hand.1,3,NA,8,NA,NA,Personal,NA,NA,0,skin,52,male,NA,3,Hand,Hand,Hand,1,NA,NA
+3.Hand.3,3,40,8,2,0.63,Personal,0,NA,0,skin,559,male,5,3,Hand,Hand,Hand,3,21,168
+3.Hand.4,3,25,8,6,0,Personal,0,NA,0,skin,316,male,5,3,Hand,Hand,Hand,4,35,168
+3.Shoe.2,3,4,8,24,0.38,Personal,0,NA,0,surface,484,male,5,3,Shoe,Shoe,Floor,2,7,17.5
+3.Shoe.3,3,40,8,2,0.63,Personal,0,NA,0,surface,564,male,5,3,Shoe,Shoe,Floor,3,21,168
+3.Shoe.4,3,25,8,6,0,Personal,0,NA,0,surface,315,male,5,3,Shoe,Shoe,Floor,4,35,168
+30.Bed.Sheet.2,30,15,6,16,0.21,Personal,0,8,1,surface,101,female,2,30,Bed.Sheet,Bed Sheet,Hand,2,7,2
+30.Bed.Sheet.3,30,20,6,8,1.25,Personal,0,8,1,surface,427,female,2,30,Bed.Sheet,Bed Sheet,Hand,3,21,3
+30.Bed.Sheet.4,30,24,6,3,0.46,Personal,0,8,1,surface,641,female,5,30,Bed.Sheet,Bed Sheet,Hand,4,5,60
+30.Desk.2,30,15,6,16,0.21,Personal,0,8,1,surface,109,female,2,30,Desk,Desk,Hand,2,7,2
+30.Desk.3,30,20,6,8,1.25,Personal,0,8,1,surface,431,female,2,30,Desk,Desk,Hand,3,21,3
+30.Desk.4,30,24,6,3,0.46,Personal,0,8,1,surface,637,female,5,30,Desk,Desk,Hand,4,5,60
+30.Door.Handle.2,30,15,6,16,0.21,Personal,0,8,1,surface,117,female,2,30,Door.Handle,Door Handle,Hand,2,7,2
+30.Door.Handle.4,30,24,6,3,0.46,Personal,0,8,1,surface,639,female,5,30,Door.Handle,Door Handle,Hand,4,5,60
+30.Floor.2,30,15,6,16,0.21,Personal,0,8,1,surface,125,female,2,30,Floor,Floor,Floor,2,7,2
+30.Floor.4,30,24,6,3,0.46,Personal,0,8,1,surface,638,female,5,30,Floor,Floor,Floor,4,5,60
+30.Hand.1,30,NA,6,NA,NA,Personal,NA,8,1,skin,8,female,NA,30,Hand,Hand,Hand,1,NA,NA
+30.Hand.2,30,15,6,16,0.21,Personal,0,8,1,skin,141,female,2,30,Hand,Hand,Hand,2,7,2
+30.Hand.3,30,20,6,8,1.25,Personal,0,8,1,skin,428,female,2,30,Hand,Hand,Hand,3,21,3
+30.Hand.4,30,24,6,3,0.46,Personal,0,8,1,skin,642,female,5,30,Hand,Hand,Hand,4,5,60
+30.Shoe.2,30,15,6,16,0.21,Personal,0,8,1,surface,133,female,2,30,Shoe,Shoe,Floor,2,7,2
+30.Shoe.4,30,24,6,3,0.46,Personal,0,8,1,surface,640,female,5,30,Shoe,Shoe,Floor,4,5,60
+31.Bed.Sheet.2,31,0,5,2,0.83,Personal,0,Outside Study,1,surface,478,female,4,31,Bed.Sheet,Bed Sheet,Hand,2,1,0
+31.Bed.Sheet.4,31,0,5,12,0.54,Personal,0,Outside Study,1,surface,644,female,4,31,Bed.Sheet,Bed Sheet,Hand,4,28,19
+31.Desk.2,31,0,5,2,0.83,Personal,0,Outside Study,1,surface,476,female,4,31,Desk,Desk,Hand,2,1,0
+31.Door.Handle.2,31,0,5,2,0.83,Personal,0,Outside Study,1,surface,480,female,4,31,Door.Handle,Door Handle,Hand,2,1,0
+31.Floor.2,31,0,5,2,0.83,Personal,0,Outside Study,1,surface,477,female,4,31,Floor,Floor,Floor,2,1,0
+31.Hand.1,31,NA,5,NA,NA,Personal,NA,Outside Study,1,skin,12,female,NA,31,Hand,Hand,Hand,1,NA,NA
+31.Hand.4,31,0,5,12,0.54,Personal,0,Outside Study,1,skin,647,female,4,31,Hand,Hand,Hand,4,28,19
+31.Shoe.2,31,0,5,2,0.83,Personal,0,Outside Study,1,surface,475,female,4,31,Shoe,Shoe,Floor,2,1,0
+31.Shoe.4,31,0,5,12,0.54,Personal,0,Outside Study,1,surface,643,female,4,31,Shoe,Shoe,Floor,4,28,19
+32.Bed.Sheet.3,32,NA,8,NA,NA,Personal,NA,NA,0,surface,558,male,NA,32,Bed.Sheet,Bed Sheet,Hand,3,NA,NA
+32.Bed.Sheet.4,32,10,8,5,0.42,Personal,0,NA,0,surface,655,male,2,32,Bed.Sheet,Bed Sheet,Hand,4,14,72
+32.Desk.2,32,3,8,15,0.75,Personal,0,NA,0,surface,572,male,2,32,Desk,Desk,Hand,2,14,0
+32.Desk.3,32,NA,8,NA,NA,Personal,NA,NA,0,surface,554,male,NA,32,Desk,Desk,Hand,3,NA,NA
+32.Desk.4,32,10,8,5,0.42,Personal,0,NA,0,surface,652,male,2,32,Desk,Desk,Hand,4,14,72
+32.Door.Handle.2,32,3,8,15,0.75,Personal,0,NA,0,surface,575,male,2,32,Door.Handle,Door Handle,Hand,2,14,0
+32.Door.Handle.3,32,NA,8,NA,NA,Personal,NA,NA,0,surface,556,male,NA,32,Door.Handle,Door Handle,Hand,3,NA,NA
+32.Door.Handle.4,32,10,8,5,0.42,Personal,0,NA,0,surface,654,male,2,32,Door.Handle,Door Handle,Hand,4,14,72
+32.Floor.2,32,3,8,15,0.75,Personal,0,NA,0,surface,571,male,2,32,Floor,Floor,Floor,2,14,0
+32.Floor.3,32,NA,8,NA,NA,Personal,NA,NA,0,surface,555,male,NA,32,Floor,Floor,Floor,3,NA,NA
+32.Floor.4,32,10,8,5,0.42,Personal,0,NA,0,surface,650,male,2,32,Floor,Floor,Floor,4,14,72
+32.Hand.1,32,NA,8,NA,NA,Personal,NA,NA,0,skin,23,male,NA,32,Hand,Hand,Hand,1,NA,NA
+32.Hand.2,32,3,8,15,0.75,Personal,0,NA,0,skin,573,male,2,32,Hand,Hand,Hand,2,14,0
+32.Hand.3,32,NA,8,NA,NA,Personal,NA,NA,0,skin,553,male,NA,32,Hand,Hand,Hand,3,NA,NA
+32.Hand.4,32,10,8,5,0.42,Personal,0,NA,0,skin,653,male,2,32,Hand,Hand,Hand,4,14,72
+32.Shoe.2,32,3,8,15,0.75,Personal,0,NA,0,surface,574,male,2,32,Shoe,Shoe,Floor,2,14,0
+32.Shoe.3,32,NA,8,NA,NA,Personal,NA,NA,0,surface,557,male,NA,32,Shoe,Shoe,Floor,3,NA,NA
+32.Shoe.4,32,10,8,5,0.42,Personal,0,NA,0,surface,651,male,2,32,Shoe,Shoe,Floor,4,14,72
+33.Bed.Sheet.2,33,2,8,2,0.27,Personal,0,NA,0,surface,392,female,1,33,Bed.Sheet,Bed Sheet,Hand,2,7,0
+33.Desk.2,33,2,8,2,0.27,Personal,0,NA,0,surface,394,female,1,33,Desk,Desk,Hand,2,7,0
+33.Desk.3,33,1,8,5,0.13,Personal,0,NA,0,surface,406,female,1,33,Desk,Desk,Hand,3,0,48
+33.Door.Handle.3,33,1,8,5,0.13,Personal,0,NA,0,surface,404,female,1,33,Door.Handle,Door Handle,Hand,3,0,48
+33.Floor.2,33,2,8,2,0.27,Personal,0,NA,0,surface,395,female,1,33,Floor,Floor,Floor,2,7,0
+33.Floor.3,33,1,8,5,0.13,Personal,0,NA,0,surface,405,female,1,33,Floor,Floor,Floor,3,0,48
+33.Hand.1,33,NA,8,NA,NA,Personal,NA,NA,0,skin,22,female,NA,33,Hand,Hand,Hand,1,NA,NA
+33.Hand.2,33,2,8,2,0.27,Personal,0,NA,0,skin,393,female,1,33,Hand,Hand,Hand,2,7,0
+33.Hand.3,33,1,8,5,0.13,Personal,0,NA,0,skin,408,female,1,33,Hand,Hand,Hand,3,0,48
+33.Shoe.2,33,2,8,2,0.27,Personal,0,NA,0,surface,396,female,1,33,Shoe,Shoe,Floor,2,7,0
+33.Shoe.3,33,1,8,5,0.13,Personal,0,NA,0,surface,407,female,1,33,Shoe,Shoe,Floor,3,0,48
+34.Hand.1,34,NA,,NA,NA,Personal,NA,NA,NA,skin,21,NA,NA,34,Hand,Hand,Hand,1,NA,NA
+35.Bed.Sheet.2,35,0,8,9,0.29,Personal,0,"28, 36, 29",3,surface,527,male,0.5,35,Bed.Sheet,Bed Sheet,Hand,2,14,0
+35.Bed.Sheet.3,35,NA,8,NA,NA,Personal,NA,"28, 36, 29",3,surface,519,male,NA,35,Bed.Sheet,Bed Sheet,Hand,3,NA,NA
+35.Bed.Sheet.4,35,2,8,18,0.04,Personal,0,"28, 36, 29",3,surface,649,male,2,35,Bed.Sheet,Bed Sheet,Hand,4,7,6
+35.Desk.2,35,0,8,9,0.29,Personal,0,"28, 36, 29",3,surface,528,male,0.5,35,Desk,Desk,Hand,2,14,0
+35.Desk.3,35,NA,8,NA,NA,Personal,NA,"28, 36, 29",3,surface,517,male,NA,35,Desk,Desk,Hand,3,NA,NA
+35.Desk.4,35,2,8,18,0.04,Personal,0,"28, 36, 29",3,surface,384,male,2,35,Desk,Desk,Hand,4,7,6
+35.Door.Handle.2,35,0,8,9,0.29,Personal,0,"28, 36, 29",3,surface,524,male,0.5,35,Door.Handle,Door Handle,Hand,2,14,0
+35.Door.Handle.3,35,NA,8,NA,NA,Personal,NA,"28, 36, 29",3,surface,522,male,NA,35,Door.Handle,Door Handle,Hand,3,NA,NA
+35.Door.Handle.4,35,2,8,18,0.04,Personal,0,"28, 36, 29",3,surface,658,male,2,35,Door.Handle,Door Handle,Hand,4,7,6
+35.Floor.2,35,0,8,9,0.29,Personal,0,"28, 36, 29",3,surface,523,male,0.5,35,Floor,Floor,Floor,2,14,0
+35.Floor.3,35,NA,8,NA,NA,Personal,NA,"28, 36, 29",3,surface,518,male,NA,35,Floor,Floor,Floor,3,NA,NA
+35.Floor.4,35,2,8,18,0.04,Personal,0,"28, 36, 29",3,surface,659,male,2,35,Floor,Floor,Floor,4,7,6
+35.Hand.1,35,NA,8,NA,NA,Personal,NA,"28, 36, 29",3,skin,19,male,NA,35,Hand,Hand,Hand,1,NA,NA
+35.Hand.2,35,0,8,9,0.29,Personal,0,"28, 36, 29",3,skin,525,male,0.5,35,Hand,Hand,Hand,2,14,0
+35.Hand.3,35,NA,8,NA,NA,Personal,NA,"28, 36, 29",3,skin,521,male,NA,35,Hand,Hand,Hand,3,NA,NA
+35.Hand.4,35,2,8,18,0.04,Personal,0,"28, 36, 29",3,skin,657,male,2,35,Hand,Hand,Hand,4,7,6
+35.Shoe.2,35,0,8,9,0.29,Personal,0,"28, 36, 29",3,surface,526,male,0.5,35,Shoe,Shoe,Floor,2,14,0
+35.Shoe.3,35,NA,8,NA,NA,Personal,NA,"28, 36, 29",3,surface,520,male,NA,35,Shoe,Shoe,Floor,3,NA,NA
+35.Shoe.4,35,2,8,18,0.04,Personal,0,"28, 36, 29",3,surface,656,male,2,35,Shoe,Shoe,Floor,4,7,6
+36.Bed.Sheet.3,36,1,8,NA,3.5,Personal,0,"28, 35, 29",3,surface,246,female,8,36,Bed.Sheet,Bed Sheet,Hand,3,3,0
+36.Desk.3,36,1,8,NA,3.5,Personal,0,"28, 35, 29",3,surface,243,female,8,36,Desk,Desk,Hand,3,3,0
+36.Floor.3,36,1,8,NA,3.5,Personal,0,"28, 35, 29",3,surface,244,female,8,36,Floor,Floor,Floor,3,3,0
+36.Hand.3,36,1,8,NA,3.5,Personal,0,"28, 35, 29",3,skin,241,female,8,36,Hand,Hand,Hand,3,3,0
+36.Shoe.3,36,1,8,NA,3.5,Personal,0,"28, 35, 29",3,surface,242,female,8,36,Shoe,Shoe,Floor,3,3,0
+37.Desk.2,37,0,8,5,0.19,Personal,0,Outside Study,1,surface,145,male,3,37,Desk,Desk,Hand,2,42,168
+37.Desk.3,37,0,8,NA,NA,Personal,0,Outside Study,1,surface,119,male,3,37,Desk,Desk,Hand,3,56,168
+37.Door.Handle.3,37,0,8,NA,NA,Personal,0,Outside Study,1,surface,111,male,3,37,Door.Handle,Door Handle,Hand,3,56,168
+37.Floor.3,37,0,8,NA,NA,Personal,0,Outside Study,1,surface,135,male,3,37,Floor,Floor,Floor,3,56,168
+37.Hand.1,37,NA,8,NA,NA,Personal,NA,Outside Study,1,skin,25,male,NA,37,Hand,Hand,Hand,1,NA,NA
+37.Hand.3,37,0,8,NA,NA,Personal,0,Outside Study,1,skin,103,male,3,37,Hand,Hand,Hand,3,56,168
+37.Shoe.3,37,0,8,NA,NA,Personal,0,Outside Study,1,surface,127,male,3,37,Shoe,Shoe,Floor,3,56,168
+4.Bed.Sheet.2,4,3,5,20,0.02,Personal,0,NA,0,surface,190,male,10,4,Bed.Sheet,Bed Sheet,Hand,2,1,0
+4.Bed.Sheet.4,4,3,5,15,2,Personal,3,NA,0,surface,319,male,10,4,Bed.Sheet,Bed Sheet,Hand,4,3,10
+4.Desk.2,4,3,5,20,0.02,Personal,0,NA,0,surface,174,male,10,4,Desk,Desk,Hand,2,1,0
+4.Desk.4,4,3,5,15,2,Personal,3,NA,0,surface,323,male,10,4,Desk,Desk,Hand,4,3,10
+4.Door.Handle.2,4,3,5,20,0.02,Personal,0,NA,0,surface,182,male,10,4,Door.Handle,Door Handle,Hand,2,1,0
+4.Floor.2,4,3,5,20,0.02,Personal,0,NA,0,surface,150,male,10,4,Floor,Floor,Floor,2,1,0
+4.Hand.1,4,NA,5,NA,NA,Personal,NA,NA,0,skin,51,male,NA,4,Hand,Hand,Hand,1,NA,NA
+4.Hand.2,4,3,5,20,0.02,Personal,0,NA,0,skin,166,male,10,4,Hand,Hand,Hand,2,1,0
+4.Shoe.2,4,3,5,20,0.02,Personal,0,NA,0,surface,158,male,10,4,Shoe,Shoe,Floor,2,1,0
+4.Shoe.4,4,3,5,15,2,Personal,3,NA,0,surface,321,male,10,4,Shoe,Shoe,Floor,4,3,10
+5.Bed.Sheet.2,5,0,7,1,0.5,Personal,0,NA,0,surface,537,male,2,5,Bed.Sheet,Bed Sheet,Hand,2,14,0
+5.Bed.Sheet.3,5,14,7,8,0.46,Personal,0,NA,0,surface,453,male,1,5,Bed.Sheet,Bed Sheet,Hand,3,1,0
+5.Bed.Sheet.4,5,NA,7,NA,NA,Personal,NA,NA,0,surface,325,male,NA,5,Bed.Sheet,Bed Sheet,Hand,4,NA,NA
+5.Desk.2,5,0,7,1,0.5,Personal,0,NA,0,surface,535,male,2,5,Desk,Desk,Hand,2,14,0
+5.Desk.3,5,14,7,8,0.46,Personal,0,NA,0,surface,451,male,1,5,Desk,Desk,Hand,3,1,0
+5.Door.Handle.2,5,0,7,1,0.5,Personal,0,NA,0,surface,539,male,2,5,Door.Handle,Door Handle,Hand,2,14,0
+5.Door.Handle.3,5,14,7,8,0.46,Personal,0,NA,0,surface,452,male,1,5,Door.Handle,Door Handle,Hand,3,1,0
+5.Door.Handle.4,5,NA,7,NA,NA,Personal,NA,NA,0,surface,326,male,NA,5,Door.Handle,Door Handle,Hand,4,NA,NA
+5.Floor.2,5,0,7,1,0.5,Personal,0,NA,0,surface,538,male,2,5,Floor,Floor,Floor,2,14,0
+5.Floor.3,5,14,7,8,0.46,Personal,0,NA,0,surface,454,male,1,5,Floor,Floor,Floor,3,1,0
+5.Floor.4,5,NA,7,NA,NA,Personal,NA,NA,0,surface,324,male,NA,5,Floor,Floor,Floor,4,NA,NA
+5.Hand.1,5,NA,7,NA,NA,Personal,NA,NA,0,skin,50,male,NA,5,Hand,Hand,Hand,1,NA,NA
+5.Hand.2,5,0,7,1,0.5,Personal,0,NA,0,skin,536,male,2,5,Hand,Hand,Hand,2,14,0
+5.Hand.3,5,14,7,8,0.46,Personal,0,NA,0,skin,455,male,1,5,Hand,Hand,Hand,3,1,0
+5.Hand.4,5,NA,7,NA,NA,Personal,NA,NA,0,skin,328,male,NA,5,Hand,Hand,Hand,4,NA,NA
+5.Shoe.2,5,0,7,1,0.5,Personal,0,NA,0,surface,540,male,2,5,Shoe,Shoe,Floor,2,14,0
+5.Shoe.3,5,14,7,8,0.46,Personal,0,NA,0,surface,456,male,1,5,Shoe,Shoe,Floor,3,1,0
+6.Bed.Sheet.2,6,0,7,13,0.42,Personal,1,12,1,surface,102,male,1,6,Bed.Sheet,Bed Sheet,Hand,2,1,2.4
+6.Bed.Sheet.3,6,2,7,7,0.08,Personal,1,12,1,surface,446,male,2,6,Bed.Sheet,Bed Sheet,Hand,3,14,168
+6.Bed.Sheet.4,6,0,7,5,0.25,Personal,1,12,1,surface,331,male,2,6,Bed.Sheet,Bed Sheet,Hand,4,5,168
+6.Desk.2,6,0,7,13,0.42,Personal,1,12,1,surface,134,male,1,6,Desk,Desk,Hand,2,1,2.4
+6.Desk.3,6,2,7,7,0.08,Personal,1,12,1,surface,449,male,2,6,Desk,Desk,Hand,3,14,168
+6.Door.Handle.2,6,0,7,13,0.42,Personal,1,12,1,surface,118,male,1,6,Door.Handle,Door Handle,Hand,2,1,2.4
+6.Door.Handle.3,6,2,7,7,0.08,Personal,1,12,1,surface,447,male,2,6,Door.Handle,Door Handle,Hand,3,14,168
+6.Door.Handle.4,6,0,7,5,0.25,Personal,1,12,1,surface,332,male,2,6,Door.Handle,Door Handle,Hand,4,5,168
+6.Floor.2,6,0,7,13,0.42,Personal,1,12,1,surface,110,male,1,6,Floor,Floor,Floor,2,1,2.4
+6.Floor.3,6,2,7,7,0.08,Personal,1,12,1,surface,445,male,2,6,Floor,Floor,Floor,3,14,168
+6.Floor.4,6,0,7,5,0.25,Personal,1,12,1,surface,330,male,2,6,Floor,Floor,Floor,4,5,168
+6.Hand.1,6,NA,7,NA,NA,Personal,NA,12,1,skin,49,male,NA,6,Hand,Hand,Hand,1,NA,NA
+6.Hand.2,6,0,7,13,0.42,Personal,1,12,1,skin,142,male,1,6,Hand,Hand,Hand,2,1,2.4
+6.Hand.3,6,2,7,7,0.08,Personal,1,12,1,skin,448,male,2,6,Hand,Hand,Hand,3,14,168
+6.Hand.4,6,0,7,5,0.25,Personal,1,12,1,skin,334,male,2,6,Hand,Hand,Hand,4,5,168
+6.Shoe.2,6,0,7,13,0.42,Personal,1,12,1,surface,126,male,1,6,Shoe,Shoe,Floor,2,1,2.4
+6.Shoe.3,6,2,7,7,0.08,Personal,1,12,1,surface,450,male,2,6,Shoe,Shoe,Floor,3,14,168
+6.Shoe.4,6,0,7,5,0.25,Personal,1,12,1,surface,333,male,2,6,Shoe,Shoe,Floor,4,5,168
+7.Bed.Sheet.2,7,0,6,5,0.63,Personal,0,NA,0,surface,505,male,1,7,Bed.Sheet,Bed Sheet,Hand,2,14,160
+7.Bed.Sheet.3,7,3,5,5,0.25,Personal,0,NA,0,surface,514,male,1,7,Bed.Sheet,Bed Sheet,Hand,3,7,80
+7.Desk.2,7,0,6,5,0.63,Personal,0,NA,0,surface,507,male,1,7,Desk,Desk,Hand,2,14,160
+7.Desk.3,7,3,5,5,0.25,Personal,0,NA,0,surface,516,male,1,7,Desk,Desk,Hand,3,7,80
+7.Door.Handle.2,7,0,6,5,0.63,Personal,0,NA,0,surface,510,male,1,7,Door.Handle,Door Handle,Hand,2,14,160
+7.Door.Handle.3,7,3,5,5,0.25,Personal,0,NA,0,surface,511,male,1,7,Door.Handle,Door Handle,Hand,3,7,80
+7.Floor.2,7,0,6,5,0.63,Personal,0,NA,0,surface,509,male,1,7,Floor,Floor,Floor,2,14,160
+7.Floor.3,7,3,5,5,0.25,Personal,0,NA,0,surface,515,male,1,7,Floor,Floor,Floor,3,7,80
+7.Hand.1,7,NA,6,NA,NA,Personal,NA,NA,0,skin,54,male,NA,7,Hand,Hand,Hand,1,NA,NA
+7.Hand.2,7,0,6,5,0.63,Personal,0,NA,0,skin,508,male,1,7,Hand,Hand,Hand,2,14,160
+7.Hand.3,7,3,5,5,0.25,Personal,0,NA,0,skin,513,male,1,7,Hand,Hand,Hand,3,7,80
+7.Shoe.3,7,3,5,5,0.25,Personal,0,NA,0,surface,512,male,1,7,Shoe,Shoe,Floor,3,7,80
+8.Bed.Sheet.2,8,3,6,4,0.25,Personal,0,30,1,surface,390,female,3,8,Bed.Sheet,Bed Sheet,Hand,2,3,0
+8.Desk.2,8,3,6,4,0.25,Personal,0,30,1,surface,385,female,3,8,Desk,Desk,Hand,2,3,0
+8.Door.Handle.2,8,3,6,4,0.25,Personal,0,30,1,surface,389,female,3,8,Door.Handle,Door Handle,Hand,2,3,0
+8.Floor.2,8,3,6,4,0.25,Personal,0,30,1,surface,387,female,3,8,Floor,Floor,Floor,2,3,0
+8.Hand.1,8,NA,6,NA,NA,Personal,NA,30,1,skin,34,female,NA,8,Hand,Hand,Hand,1,NA,NA
+8.Hand.2,8,3,6,4,0.25,Personal,0,30,1,skin,386,female,3,8,Hand,Hand,Hand,2,3,0
+8.Shoe.2,8,3,6,4,0.25,Personal,0,30,1,surface,388,female,3,8,Shoe,Shoe,Floor,2,3,0
+9.Bed.Sheet.2,9,0.5,7,10,1,Personal,0,16,1,surface,271,male,2,9,Bed.Sheet,Bed Sheet,Hand,2,14,0
+9.Desk.2,9,0.5,7,10,1,Personal,0,16,1,surface,273,male,2,9,Desk,Desk,Hand,2,14,0
+9.Door.Handle.2,9,0.5,7,10,1,Personal,0,16,1,surface,276,male,2,9,Door.Handle,Door Handle,Hand,2,14,0
+9.Floor.2,9,0.5,7,10,1,Personal,0,16,1,surface,274,male,2,9,Floor,Floor,Floor,2,14,0
+9.Hand.1,9,NA,7,NA,NA,Personal,NA,16,1,skin,36,male,NA,9,Hand,Hand,Hand,1,NA,NA
+9.Hand.2,9,0.5,7,10,1,Personal,0,16,1,skin,272,male,2,9,Hand,Hand,Hand,2,14,0
+9.Shoe.2,9,0.5,7,10,1,Personal,0,16,1,surface,275,male,2,9,Shoe,Shoe,Floor,2,14,0
+Env.Br5.1,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,44,NA,NA,Env,Br5,Bathroom,Hand,1,NA,NA
+Env.Br5.2,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,351,NA,NA,Env,Br5,Bathroom,Hand,2,NA,NA
+Env.Br5.3,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,75,NA,NA,Env,Br5,Bathroom,Hand,3,NA,NA
+Env.Br5.4,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,338,NA,NA,Env,Br5,Bathroom,Hand,4,NA,NA
+Env.Br51.1,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,43,NA,NA,Env,Br51,Bathroom,Hand,1,NA,NA
+Env.Br51.2,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,378,NA,NA,Env,Br51,Bathroom,Hand,2,NA,NA
+Env.Br51.3,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,79,NA,NA,Env,Br51,Bathroom,Hand,3,NA,NA
+Env.Br51.4,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,292,NA,NA,Env,Br51,Bathroom,Hand,4,NA,NA
+Env.Br6.1,Env,NA,6,NA,NA,Common,NA,NA,NA,surface,3,NA,NA,Env,Br6,Bathroom,Hand,1,NA,NA
+Env.Br6.2,Env,NA,6,NA,NA,Common,NA,NA,NA,surface,352,NA,NA,Env,Br6,Bathroom,Hand,2,NA,NA
+Env.Br6.3,Env,NA,6,NA,NA,Common,NA,NA,NA,surface,77,NA,NA,Env,Br6,Bathroom,Hand,3,NA,NA
+Env.Br6.4,Env,NA,6,NA,NA,Common,NA,NA,NA,surface,86,NA,NA,Env,Br6,Bathroom,Hand,4,NA,NA
+Env.Br7.1,Env,NA,7,NA,NA,Common,NA,NA,NA,surface,4,NA,NA,Env,Br7,Bathroom,Hand,1,NA,NA
+Env.Br7.2,Env,NA,7,NA,NA,Common,NA,NA,NA,surface,382,NA,NA,Env,Br7,Bathroom,Hand,2,NA,NA
+Env.Br7.3,Env,NA,7,NA,NA,Common,NA,NA,NA,surface,71,NA,NA,Env,Br7,Bathroom,Hand,3,NA,NA
+Env.Br7.4,Env,NA,7,NA,NA,Common,NA,NA,NA,surface,289,NA,NA,Env,Br7,Bathroom,Hand,4,NA,NA
+Env.Br8.1,Env,NA,8,NA,NA,Common,NA,NA,NA,surface,1,NA,NA,Env,Br8,Bathroom,Hand,1,NA,NA
+Env.Br8.2,Env,NA,8,NA,NA,Common,NA,NA,NA,surface,353,NA,NA,Env,Br8,Bathroom,Hand,2,NA,NA
+Env.Br8.3,Env,NA,8,NA,NA,Common,NA,NA,NA,surface,81,NA,NA,Env,Br8,Bathroom,Hand,3,NA,NA
+Env.Br8.4,Env,NA,8,NA,NA,Common,NA,NA,NA,surface,337,NA,NA,Env,Br8,Bathroom,Hand,4,NA,NA
+Env.Ctrl.1,Env,NA,,NA,NA,Common,NA,NA,NA,control blank DNA extraction,24,NA,NA,Env,Ctrl,Ctrl,Ctrl,1,NA,NA
+Env.Eb1.1,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,9,NA,NA,Env,Eb1,Elevator Button,Hand,1,NA,NA
+Env.Eb1.2,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,340,NA,NA,Env,Eb1,Elevator Button,Hand,2,NA,NA
+Env.Eb1.3,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,78,NA,NA,Env,Eb1,Elevator Button,Hand,3,NA,NA
+Env.Eb1.4,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,93,NA,NA,Env,Eb1,Elevator Button,Hand,4,NA,NA
+Env.Eb5.1,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,2,NA,NA,Env,Eb5,Elevator Button,Hand,1,NA,NA
+Env.Eb5.2,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,339,NA,NA,Env,Eb5,Elevator Button,Hand,2,NA,NA
+Env.Eb5.3,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,83,NA,NA,Env,Eb5,Elevator Button,Hand,3,NA,NA
+Env.Eb6.1,Env,NA,6,NA,NA,Common,NA,NA,NA,surface,5,NA,NA,Env,Eb6,Elevator Button,Hand,1,NA,NA
+Env.Eb6.2,Env,NA,6,NA,NA,Common,NA,NA,NA,surface,380,NA,NA,Env,Eb6,Elevator Button,Hand,2,NA,NA
+Env.Eb6.3,Env,NA,6,NA,NA,Common,NA,NA,NA,surface,68,NA,NA,Env,Eb6,Elevator Button,Hand,3,NA,NA
+Env.Eb6.4,Env,NA,6,NA,NA,Common,NA,NA,NA,surface,294,NA,NA,Env,Eb6,Elevator Button,Hand,4,NA,NA
+Env.Eb7.1,Env,NA,7,NA,NA,Common,NA,NA,NA,surface,6,NA,NA,Env,Eb7,Elevator Button,Hand,1,NA,NA
+Env.Eb7.2,Env,NA,7,NA,NA,Common,NA,NA,NA,surface,381,NA,NA,Env,Eb7,Elevator Button,Hand,2,NA,NA
+Env.Eb7.3,Env,NA,7,NA,NA,Common,NA,NA,NA,surface,80,NA,NA,Env,Eb7,Elevator Button,Hand,3,NA,NA
+Env.Eb7.4,Env,NA,7,NA,NA,Common,NA,NA,NA,surface,290,NA,NA,Env,Eb7,Elevator Button,Hand,4,NA,NA
+Env.Eb8.1,Env,NA,8,NA,NA,Common,NA,NA,NA,surface,17,NA,NA,Env,Eb8,Elevator Button,Hand,1,NA,NA
+Env.Eb8.2,Env,NA,8,NA,NA,Common,NA,NA,NA,surface,383,NA,NA,Env,Eb8,Elevator Button,Hand,2,NA,NA
+Env.Eb8.3,Env,NA,8,NA,NA,Common,NA,NA,NA,surface,73,NA,NA,Env,Eb8,Elevator Button,Hand,3,NA,NA
+Env.Fl5.2,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,342,NA,NA,Env,Fl5,Hallway,Hand,2,NA,NA
+Env.Fl5.3,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,95,NA,NA,Env,Fl5,Hallway,Hand,3,NA,NA
+Env.Fl5.4,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,296,NA,NA,Env,Fl5,Hallway,Hand,4,NA,NA
+Env.Fl5c.2,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,348,NA,NA,Env,Fl5c,Hallway,Hand,2,NA,NA
+Env.Fl6.2,Env,NA,6,NA,NA,Common,NA,NA,NA,surface,349,NA,NA,Env,Fl6,Hallway,Hand,2,NA,NA
+Env.Fl6.3,Env,NA,6,NA,NA,Common,NA,NA,NA,surface,94,NA,NA,Env,Fl6,Hallway,Hand,3,NA,NA
+Env.Fl6.4,Env,NA,6,NA,NA,Common,NA,NA,NA,surface,85,NA,NA,Env,Fl6,Hallway,Hand,4,NA,NA
+Env.Fl7.2,Env,NA,7,NA,NA,Common,NA,NA,NA,surface,346,NA,NA,Env,Fl7,Hallway,Hand,2,NA,NA
+Env.Fl7.3,Env,NA,7,NA,NA,Common,NA,NA,NA,surface,88,NA,NA,Env,Fl7,Hallway,Hand,3,NA,NA
+Env.Fl7.4,Env,NA,7,NA,NA,Common,NA,NA,NA,surface,299,NA,NA,Env,Fl7,Hallway,Hand,4,NA,NA
+Env.Fl8.2,Env,NA,8,NA,NA,Common,NA,NA,NA,surface,347,NA,NA,Env,Fl8,Hallway,Hand,2,NA,NA
+Env.Fl8.3,Env,NA,8,NA,NA,Common,NA,NA,NA,surface,89,NA,NA,Env,Fl8,Hallway,Hand,3,NA,NA
+Env.Fl8.4,Env,NA,8,NA,NA,Common,NA,NA,NA,surface,293,NA,NA,Env,Fl8,Hallway,Hand,4,NA,NA
+Env.Md1.1,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,10,NA,NA,Env,Md1,Main Door,Hand,1,NA,NA
+Env.Md1.2,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,336,NA,NA,Env,Md1,Main Door,Hand,2,NA,NA
+Env.Md1.3,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,67,NA,NA,Env,Md1,Main Door,Hand,3,NA,NA
+Env.Md1.4,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,90,NA,NA,Env,Md1,Main Door,Hand,4,NA,NA
+Env.Md2.1,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,7,NA,NA,Env,Md2,Main Door,Hand,1,NA,NA
+Env.Md2.2,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,350,NA,NA,Env,Md2,Main Door,Hand,2,NA,NA
+Env.Md2.3,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,74,NA,NA,Env,Md2,Main Door,Hand,3,NA,NA
+Env.Md2.4,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,96,NA,NA,Env,Md2,Main Door,Hand,4,NA,NA
+Env.Md3.1,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,11,NA,NA,Env,Md3,Main Door,Hand,1,NA,NA
+Env.Md3.2,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,341,NA,NA,Env,Md3,Main Door,Hand,2,NA,NA
+Env.Md3.3,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,82,NA,NA,Env,Md3,Main Door,Hand,3,NA,NA
+Env.Md3.4,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,84,NA,NA,Env,Md3,Main Door,Hand,4,NA,NA
+Env.Md4.4,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,92,NA,NA,Env,Md4,Main Door,Hand,4,NA,NA
+Env.Tb1.1,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,47,NA,NA,Env,Tb1,Table,Hand,1,NA,NA
+Env.Tb1.2,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,344,NA,NA,Env,Tb1,Table,Hand,2,NA,NA
+Env.Tb1.3,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,69,NA,NA,Env,Tb1,Table,Hand,3,NA,NA
+Env.Tb1.4,Env,NA,1,NA,NA,Common,NA,NA,NA,surface,91,NA,NA,Env,Tb1,Table,Hand,4,NA,NA
+Env.Tb2.1,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,46,NA,NA,Env,Tb2,Table,Hand,1,NA,NA
+Env.Tb2.2,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,343,NA,NA,Env,Tb2,Table,Hand,2,NA,NA
+Env.Tb2.3,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,72,NA,NA,Env,Tb2,Table,Hand,3,NA,NA
+Env.Tb2.4,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,295,NA,NA,Env,Tb2,Table,Hand,4,NA,NA
+Env.Tb3.1,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,48,NA,NA,Env,Tb3,Table,Hand,1,NA,NA
+Env.Tb3.2,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,379,NA,NA,Env,Tb3,Table,Hand,2,NA,NA
+Env.Tb3.3,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,70,NA,NA,Env,Tb3,Table,Hand,3,NA,NA
+Env.Tb3.4,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,291,NA,NA,Env,Tb3,Table,Hand,4,NA,NA
+Env.Tb4.1,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,45,NA,NA,Env,Tb4,Table,Hand,1,NA,NA
+Env.Tb4.2,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,345,NA,NA,Env,Tb4,Table,Hand,2,NA,NA
+Env.Tb4.3,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,76,NA,NA,Env,Tb4,Table,Hand,3,NA,NA
+Env.Tb4.4,Env,NA,5,NA,NA,Common,NA,NA,NA,surface,297,NA,NA,Env,Tb4,Table,Hand,4,NA,NA

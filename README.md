@@ -5,4 +5,4 @@ This should provide all necessary data to repeat many analyses from the paper, a
 
 All of the sequence tables are rarefied to 4000 sequences/per sample.
 
-For more information about the study, see https://www.biorxiv.org/content/10.1101/620948v1
+For more information about the study, see https://mbio.asm.org/content/10/4/e01054-19
